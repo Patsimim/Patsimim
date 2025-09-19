@@ -1,7 +1,15 @@
 # Russel Gem O. Rojo
-**Jr. Developer | Full-Stack Web Developer**
+**Jr. Developer**
 
 📍 **Siquijor, Philippines**
+
+## 👨‍💻 About me
+
+I'm a Computer Engineering graduate from Silliman University and a dedicated Fullstack Developer with strong work ethics, adaptability, and a growth-oriented mindset. I am passionate about delivering high-quality results and committed to continuous learning and improvement.
+
+I'm always seeking for a role where I can continue to grow both technically and professionally, contribute meaningfully to the team, and take on new challenges that will help me reach my full potential.
+
+Outside of work, I enjoy watching movies and anime, playing chess, staying active with basketball and jogging, and reading comics, activities that keep me both inspired and balanced.
 
 ## 🔗 Links
 - 🔗 [LinkedIn](https://www.linkedin.com/in/russel-gem-rojo-486079355/)
@@ -15,7 +23,7 @@
 }
 ```
 
-## 🎯 Main Skills
+## 🛠️ Skills
 
 ### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,11 +52,11 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📝 Publications
 
-📝 **MEDIUM** 📊 **DEV.TO**
+ **Quotes**
 
-I share insights about technology, career development, and my experiences in the tech industry. Topics include software development and professional growth.
+I am both the marble and the sculptor
+Memento Mori, Memento Vivere
 
 ## 🤝 Connect with me!
 
