@@ -3,7 +3,8 @@
 
 📍 **Siquijor, Philippines**
 
-## 👨‍💻 About me
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I'm a Computer Engineering graduate from Silliman University and a dedicated Fullstack Developer with strong work ethics, adaptability, and a growth-oriented mindset. I am passionate about delivering high-quality results and committed to continuous learning and improvement.
 
@@ -11,11 +12,13 @@ I'm always seeking for a role where I can continue to grow both technically and 
 
 Outside of work, I enjoy watching movies and anime, playing chess, staying active with basketball and jogging, and reading comics, activities that keep me both inspired and balanced.
 
-## 🔗 Links
+## Links
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🔗 [LinkedIn](https://www.linkedin.com/in/russel-gem-rojo-486079355/)
 - 🔗 [Portfolio](https://patsimim.github.io/Portfolio/)
 
-## 💼 Business
+## Work
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ```json
 {
   "name": "Software Developer",
@@ -23,7 +26,8 @@ Outside of work, I enjoy watching movies and anime, playing chess, staying activ
 }
 ```
 
-## 🛠️ Skills
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,11 +58,12 @@ Outside of work, I enjoy watching movies and anime, playing chess, staying activ
 
 
  **Quotes**
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I am both the marble and the sculptor
 Memento Mori, Memento Vivere
 
-## 🤝 Connect with me!
+## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-gem-rojo-486079355/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://patsimim.github.io/Portfolio/)
