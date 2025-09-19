@@ -56,8 +56,8 @@ Outside of work, I enjoy watching movies and anime, playing chess, staying activ
  **Quotes**
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am both the marble and the sculptor
-Memento Mori, Memento Vivere
+"I am both the marble and the sculptor"
+"Memento Mori, Memento Vivere"
 
 ## Connect with me!
 
