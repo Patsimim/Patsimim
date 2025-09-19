@@ -13,14 +13,10 @@ I'm always seeking for a role where I can continue to grow both technically and 
 Outside of work, I enjoy watching movies and anime, playing chess, staying active with basketball and jogging, and reading comics, activities that keep me both inspired and balanced.
 
 ## Links
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🔗 [LinkedIn](https://www.linkedin.com/in/russel-gem-rojo-486079355/)
-
 - 🔗 [Portfolio](https://patsimim.github.io/Portfolio/)
 
 ## Work
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ```json
 {
   "name": "Software Developer",
